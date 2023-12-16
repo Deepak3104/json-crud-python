@@ -1,11 +1,13 @@
 {
     "Madurai": {
         "name": "Madurai",
-        "state": "Tamilnadu"
+        "state": "Tamilnadu",
+        "population": "1,834,270"
     },
     "Changchester": {
         "name": "Changchester",
-        "state": "Arizona"
+        "state": "Arizona",
+        "population": "1,834,270"
     },
     "Tammyfort": {
         "name": "Tammyfort",
@@ -3850,5 +3852,21 @@
     "East Nicholeport": {
         "name": "East Nicholeport",
         "state": "Alaska"
+    },
+    "Namakkal": {
+        "name": "Namakkal",
+        "state": "Tamilnadu"
+    },
+    "karur": {
+        "index": 965,
+        "name": "karur",
+        "state": "Tamilnadu",
+        "population": "3,003,030"
+    },
+    "chennai": {
+        "index": 966,
+        "name": "chennai",
+        "state": "Tamilnadu",
+        "population": "11,776,147"
     }
 }
